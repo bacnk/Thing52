@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "pca20020.h": "c",
+        "drv_acc_lis3dh_types.h": "c",
+        "drv_ccs811_bitfields.h": "c",
+        "drv_ccs811.h": "c",
+        "twi_manager.h": "c",
+        "app_scheduler.h": "c",
+        "mltypes.h": "c"
+    }
+}
